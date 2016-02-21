@@ -25,7 +25,7 @@ Interaction already has the other side from the model generation above
 
 => ["id", "description", "interactive_id", "interactive_type", "created_at", "updated_at"]
 
-    The interactive_type column holds the type of the model that the interaction belongs to. The interactive_id holds the id of the model that the interaction belongs to. Together these two columns tell rails what model this interaction should be associated with
+The interactive_type column holds the type of the model that the interaction belongs to. The interactive_id holds the id of the model that the interaction belongs to. Together these two columns tell rails what model this interaction should be associated with
 
 ## Generate the controllers
 
